@@ -1,0 +1,11 @@
+# Executáveis compilados (Windows e Linux)
+*.exe
+
+# Arquivos de objetos e bibliotecas
+*.o
+*.obj
+*.a
+*.la
+*.lo
+
+.vscode/
