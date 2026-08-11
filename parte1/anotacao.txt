@@ -1,0 +1,20 @@
+criaçao de vetor dianamico
+deletes
+
+polimorfismo
+
+listas
+filas
+pilhas
+
+
+
+
+
+classe Carro
+
+Carro* carro = new Carro(10);
+carro->acelerar()
+
+Carro carro(10);
+carro.acelerar()

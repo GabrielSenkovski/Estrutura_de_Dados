@@ -1,0 +1,4 @@
+Pilha() é o metodo construtor da pilha
+Preparação do Terreno: Ele aloca a memória necessária e garante que as variáveis internas tenham valores iniciais seguros.
+
+
